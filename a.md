@@ -1,1 +1,1 @@
-Download debug-apk file and install
+Which version of android studio are you using
